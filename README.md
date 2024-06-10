@@ -1,0 +1,1 @@
+to launch an attack, first launch DDoSer.bat, enter the name of your site. Then everything will go by itself. But to strengthen the attack, you can first perform the first step, and then run a lot of windows yourself solider.py .
